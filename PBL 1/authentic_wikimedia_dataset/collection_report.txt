@@ -1,0 +1,7 @@
+Authentic apple dataset collection report
+Source: English Wikipedia MediaWiki API (CC BY-SA 4.0)
+No sentences were generated or paraphrased by AI.
+Labels are provisional source-topic labels and require the 20-row audit before submission.
+Train: 160 rows; Test: 40 rows.
+Train balance: CNN=80, PNN=80.
+Test balance: CNN=20, PNN=20.
